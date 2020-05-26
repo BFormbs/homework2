@@ -72,5 +72,12 @@ h2 {
 
 .link2 {
   text-align: center;
+  margin: auto;
+  color: white;
+}
+
+.cm {
+  text-align: center;
+  line-height: 1;
 }
 
