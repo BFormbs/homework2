@@ -16,6 +16,8 @@ body {
   /* background-image: url("https://i.ytimg.com/vi/oWKJAmOIZlQ/maxresdefault.jpg"); */
 }
 
+
+
 .navbar {
   padding-left: 75px;
   height: 75px;
@@ -81,3 +83,6 @@ h2 {
   line-height: 1;
 }
 
+.resume {
+  margin: auto;
+}
